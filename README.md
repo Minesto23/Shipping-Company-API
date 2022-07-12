@@ -8,6 +8,7 @@ Team GroupA:
 	- Karim Moluh Seidou
 	- Hadi Mustafa
 	- Rayan Bou Hassan
+	- Arman Islam
 
 Program created to be used to calculate the shipping cost of the products from China to Germany in regular bases, You have several products to be shipped. Calculating the best shipping methods according to your regular shipping products (Whatever number of the products that you have).
 This program now use MicroServices.
