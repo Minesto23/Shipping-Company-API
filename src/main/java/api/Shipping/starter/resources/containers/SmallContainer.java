@@ -13,8 +13,6 @@
 package api.Shipping.starter.resources.containers;
 
 import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.Map;
 
 public class SmallContainer extends Container{
 	
